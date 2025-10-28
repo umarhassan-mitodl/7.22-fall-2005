@@ -6,8 +6,6 @@ description: This resource includes information on stepwise formation of develop
 file: /courses/7-22-developmental-biology-fall-2005/94a8fce56739d0e4231d04dec4b23a36_terms_9_12.pdf
 file_size: 65953
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

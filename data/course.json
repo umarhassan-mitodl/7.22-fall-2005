@@ -24,7 +24,6 @@
     "website": "7-22-developmental-biology-fall-2005"
   },
   "course_title": "Developmental Biology",
-  "hide_download": true,
   "course_description": "This graduate and advanced undergraduate level lecture and literature discussion course covers the current understanding of the molecular mechanisms that regulate animal development. Evolutionary mechanisms are emphasized as well as the discussion of relevant diseases. Vertebrate (mouse, chick, frog, fish) and invertebrate (fly, worm) models are covered. Specific topics include formation of early body plan, cell type determination, organogenesis, morphogenesis, stem cells, cloning, and issues in human development.\n",
   "department_numbers": [
     "7"
@@ -35,7 +34,6 @@
     "content": "0c6cb85d-1be1-6f14-628a-037f3bb6f1af",
     "website": "7-22-developmental-biology-fall-2005"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Presentation Assignments",
     "Written Assignments"

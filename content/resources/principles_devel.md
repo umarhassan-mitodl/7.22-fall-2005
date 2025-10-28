@@ -4,8 +4,6 @@ description: List of 35 principles of development.
 file: /courses/7-22-developmental-biology-fall-2005/8672ffadbde8b5d4f03ed5408c7a400c_principles_devel.pdf
 file_size: 66638
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

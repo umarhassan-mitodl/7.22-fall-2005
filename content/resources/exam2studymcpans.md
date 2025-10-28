@@ -5,8 +5,6 @@ description: This resource includes problems to the questions asked in MCP file 
 file: /courses/7-22-developmental-biology-fall-2005/c184e73b63e5dce5e3d62615f58d2cca_exam2studymcpans.pdf
 file_size: 139346
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

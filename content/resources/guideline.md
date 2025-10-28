@@ -4,8 +4,6 @@ description: This resource includes guidelines for reading research papers.
 file: /courses/7-22-developmental-biology-fall-2005/ea7a014d78d6d2e05d7294f2d5b8b23f_guideline.pdf
 file_size: 20702
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
